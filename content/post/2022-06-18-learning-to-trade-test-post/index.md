@@ -13,7 +13,7 @@ tags: AAPL
 
 ### Heading 3
 
-Hello World! 
+Hello World! :)
 
 ![AAPL Chart](images/Screen-Shot-2022-06-18-at-5.57.29-am.png)
 
