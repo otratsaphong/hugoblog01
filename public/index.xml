@@ -6,7 +6,25 @@
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning to trade - test post</title>
+      <link>/2022/06/18/learning-to-trade-test-post/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/06/18/learning-to-trade-test-post/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Hello World! :)</description>
+    </item>
+    
+    <item>
+      <title>New Post 9:27</title>
+      <link>/2022/06/18/new-post-9-27/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/06/18/new-post-9-27/</guid>
+      <description>Heading 1 Testing</description>
+    </item>
+    
     <item>
       <title>Hello R Markdown</title>
       <link>/2020/12/01/hello-r-markdown/</link>
@@ -34,7 +52,8 @@ You cannot run any R code in a plain Markdown document, whereas in an R Markdown
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package.
+The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
     </item>
     
     <item>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AAPL on A Hugo website</title>
+    <link>/tags/aapl/</link>
+    <description>Recent content in AAPL on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/aapl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning to trade - test post</title>
+      <link>/2022/06/18/learning-to-trade-test-post/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/06/18/learning-to-trade-test-post/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Hello World! :)</description>
+    </item>
+    
+    <item>
+      <title>New Post 9:27</title>
+      <link>/2022/06/18/new-post-9-27/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/06/18/new-post-9-27/</guid>
+      <description>Heading 1 Testing</description>
+    </item>
+    
+  </channel>
+</rss>
