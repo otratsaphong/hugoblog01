@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AAPL on Ot&#39;s Options Lab</title>
-    <link>/tags/aapl/</link>
-    <description>Recent content in AAPL on Ot&#39;s Options Lab</description>
+    <title>trading on Ot&#39;s Options Lab</title>
+    <link>/categories/trading/</link>
+    <description>Recent content in trading on Ot&#39;s Options Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/aapl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/trading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apple PUT Vertical</title>
       <link>/2022/06/18/apple-put-vertical/</link>
@@ -33,12 +33,14 @@ This is an Risk Profile of an AAPL Calendar trade that I&amp;rsquo;m evaluating.
     </item>
     
     <item>
-      <title>Learning to trade - test post</title>
-      <link>/2022/06/18/learning-to-trade-test-post/</link>
+      <title>What I&#39;ve learned as a trader</title>
+      <link>/2022/06/18/what-i-ve-learned-as-a-trader/</link>
       <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>/2022/06/18/learning-to-trade-test-post/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Hello World! :)</description>
+      <guid>/2022/06/18/what-i-ve-learned-as-a-trader/</guid>
+      <description>Trading options is a risky business. When I first learned to trade options I was so scared of losing my money that I didn&amp;rsquo;t trade options for a long time.
+The options course that I took, focused on buying options. As on options buyer, you have to get the market direction right to be able to make a profit.
+A few years after doing my options course, I learned that it was more profitable to sell options.</description>
     </item>
     
   </channel>

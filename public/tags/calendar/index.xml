@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Calendar on A Hugo website</title>
+    <title>Calendar on Ot&#39;s Options Lab</title>
     <link>/tags/calendar/</link>
-    <description>Recent content in Calendar on A Hugo website</description>
+    <description>Recent content in Calendar on Ot&#39;s Options Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/calendar/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New Post 9:27</title>
+      <title>Hello!</title>
       <link>/2022/06/18/new-post-9-27/</link>
       <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/2022/06/18/new-post-9-27/</guid>
-      <description>Heading 1 Testing</description>
+      <description>Hello World!
+I have finally worked out how to create and publish this blog on Netlify.
+This blog is about my options trading experiment, where I will be trading with a small $500 options. The emphasis is on learning:
+Learning to manage risk learning from observation This is a chart of where Apple (AAPL) ended up at the close today:
+This is an Risk Profile of an AAPL Calendar trade that I&amp;rsquo;m evaluating.</description>
     </item>
     
   </channel>
