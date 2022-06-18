@@ -1,12 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo website</title>
+    <title>Ot&#39;s Options Lab</title>
     <link>/</link>
-    <description>Recent content on A Hugo website</description>
+    <description>Recent content on Ot&#39;s Options Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple PUT Vertical</title>
+      <link>/2022/06/18/apple-put-vertical/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/06/18/apple-put-vertical/</guid>
+      <description>The market has been dropping brutally over the last couple of weeks. It looks like it has come to a support level.
+Below is a chart of Apple (AAPL), which is a proxie for the broader market. It looks like the market could go up or go sideways.
+To take advantage of this situation I will sell a 29 July PUT Vertical.
+SELL -1 VERTICAL AAPL 100 (Weeklys) 29 JUL 22 130/120 PUT @3.</description>
+    </item>
+    
+    <item>
+      <title>Hello!</title>
+      <link>/2022/06/18/new-post-9-27/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/06/18/new-post-9-27/</guid>
+      <description>Hello World!
+I have finally worked out how to create and publish this blog on Netlify.
+This blog is about my options trading experiment, where I will be trading with a small $500 options. The emphasis is on learning:
+Learning to manage risk learning from observation This is a chart of where Apple (AAPL) ended up at the close today:
+This is an Risk Profile of an AAPL Calendar trade that I&amp;rsquo;m evaluating.</description>
+    </item>
+    
     <item>
       <title>Learning to trade - test post</title>
       <link>/2022/06/18/learning-to-trade-test-post/</link>
@@ -17,12 +42,14 @@
     </item>
     
     <item>
-      <title>New Post 9:27</title>
-      <link>/2022/06/18/new-post-9-27/</link>
+      <title>What I&#39;ve learned as a trader</title>
+      <link>/2022/06/18/what-i-ve-learned-as-a-trader/</link>
       <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>/2022/06/18/new-post-9-27/</guid>
-      <description>Heading 1 Testing</description>
+      <guid>/2022/06/18/what-i-ve-learned-as-a-trader/</guid>
+      <description>Trading options is a risky business. When I first learned to trade options I was so scared of losing my money that I didn&amp;rsquo;t trade options for a long time.
+The options course that I took, focused on buying options. As on options buyer, you have to get the market direction right to be able to make a profit.
+A few years after doing my options course, I learned that it was more profitable to sell options.</description>
     </item>
     
     <item>
@@ -52,8 +79,10 @@ You cannot run any R code in a plain Markdown document, whereas in an R Markdown
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package.
-The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <description>This blog focuses on my options trading experiment with a small $500 account.
+The goal of the experiment is to grow the account from $500 to $5,000 by conservatively trading options in the US market. This is called the $500 challenge by some. I call it the $500 experiment.
+In this experiment I&amp;rsquo;m sticking with the KISS principle. Keep It Simple.
+I will only look at the SPY, which represents the broad market.</description>
     </item>
     
     <item>
