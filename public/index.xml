@@ -38,7 +38,8 @@ This is an Risk Profile of an AAPL Calendar trade that I&amp;rsquo;m evaluating.
       <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/2022/06/18/learning-to-trade-test-post/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Hello World! :)</description>
+      <description>Learning to trade as a path to self discovery and personal growth This is something quite unexpected! When I first became interested in learning to trade, It was primarily as a means of making money. What I learnt along the way was something much greater.
+In learning to become a successful trader, I had to overcome my fears. Fear of losing money and selling too soon. Fear of losing money and failing to commit to the trade, and missing out on a big opportunity.</description>
     </item>
     
     <item>
@@ -83,15 +84,6 @@ You cannot run any R code in a plain Markdown document, whereas in an R Markdown
 The goal of the experiment is to grow the account from $500 to $5,000 by conservatively trading options in the US market. This is called the $500 challenge by some. I call it the $500 experiment.
 In this experiment I&amp;rsquo;m sticking with the KISS principle. Keep It Simple.
 I will only look at the SPY, which represents the broad market.</description>
-    </item>
-    
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>/2015/01/01/lorem-ipsum/</link>
-      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
-      
-      <guid>/2015/01/01/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
   </channel>
