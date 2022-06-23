@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/iron_condor/</loc>
+    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/2022/06/23/sold-an-spx-iron-condor/</loc>
+    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/spx/</loc>
+    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/trading/</loc>
+    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/aapl/</loc>
     <lastmod>2022-06-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,19 +32,10 @@
     <loc>/tags/calendar/</loc>
     <lastmod>2022-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/2022/06/18/new-post-9-27/</loc>
     <lastmod>2022-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2022/06/18/learning-to-trade-test-post/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
     <lastmod>2022-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/psychology/</loc>
@@ -33,9 +45,6 @@
     <lastmod>2022-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/trading/</loc>
     <lastmod>2022-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2022/06/18/what-i-ve-learned-as-a-trader/</loc>

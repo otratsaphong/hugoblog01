@@ -6,7 +6,17 @@
     <description>Recent content on Ot&#39;s Options Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sold an SPX Iron Condor</title>
+      <link>/2022/06/23/sold-an-spx-iron-condor/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/06/23/sold-an-spx-iron-condor/</guid>
+      <description>I sold a 44 day SPX Iron Condor this morning for $3.30. Max risk is $6.40. This is an experiment. I will do adjustments to the trade as required.
+SELL -1 IRON CONDOR SPX 100 (Weeklys) 5 AUG 22 4100/4110/3490/3480 CALL/PUT @3.30 LMT</description>
+    </item>
+    
     <item>
       <title>Apple PUT Vertical</title>
       <link>/2022/06/18/apple-put-vertical/</link>
